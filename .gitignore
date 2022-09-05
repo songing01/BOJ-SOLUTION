@@ -30,8 +30,9 @@
 *.exe
 *.out
 *.app
+*.log
 
-*.xml
-*.txt
-.idea/
+# CMake
 cmake-build-*/
+.idea/
+CMakeLists.txt
