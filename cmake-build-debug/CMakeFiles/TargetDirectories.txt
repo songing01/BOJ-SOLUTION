@@ -1,3 +1,0 @@
-C:/Users/songi/Altu-Bitu/BOJ/cmake-build-debug/CMakeFiles/BOJ.dir
-C:/Users/songi/Altu-Bitu/BOJ/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/songi/Altu-Bitu/BOJ/cmake-build-debug/CMakeFiles/rebuild_cache.dir
