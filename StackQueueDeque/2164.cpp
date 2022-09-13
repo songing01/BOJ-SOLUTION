@@ -11,7 +11,7 @@ int main() {
         q.push(i);
     }
     while (q.size() != 1) {
-        //이 문제는 empty가 될 이유가 없지만, 다른 문제의 경우 pop할때는 empty체크 필수!
+        //이 문제는 empty가 될 이유가 없지만, 다른 문제의 경우 pop,top할때는 empty체크 필수!
         q.pop();
         q.push(q.front());
         q.pop();
